@@ -14,9 +14,18 @@ namespace testWersjonowania
             Console.WriteLine("wersja wczytana do GITHUBa");
             Console.WriteLine("Kolejnosc 1");
 
+            Console.WriteLine("Dodaj   (1+2)=" + funcDodaj(1, 2));
+
             Console.WriteLine("Napisal: Irek");
             Console.ReadLine();
 
         }
+
+
+        static int funcDodaj(int a, int b)
+        {
+            return a + b;
+        }
+
     }
 }
