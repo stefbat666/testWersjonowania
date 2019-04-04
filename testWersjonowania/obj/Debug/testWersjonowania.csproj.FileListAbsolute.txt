@@ -1,0 +1,7 @@
+C:\source\testWersjonowania\testWersjonowania\bin\Debug\testWersjonowania.exe.config
+C:\source\testWersjonowania\testWersjonowania\bin\Debug\testWersjonowania.exe
+C:\source\testWersjonowania\testWersjonowania\bin\Debug\testWersjonowania.pdb
+C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.csprojAssemblyReference.cache
+C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.csproj.CoreCompileInputs.cache
+C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.exe
+C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.pdb
