@@ -15,6 +15,7 @@ namespace testWersjonowania
             Console.WriteLine("Kolejnosc 1");
 
             Console.WriteLine("Dodaj   (1+2)=" + funcDodaj(1, 2));
+            Console.WriteLine("Odejmij (3-1)=" + funcOdejmij(3, 1));
 
             Console.WriteLine("Napisal: Irek");
             Console.ReadLine();
@@ -25,6 +26,11 @@ namespace testWersjonowania
         static int funcDodaj(int a, int b)
         {
             return a + b;
+        }
+
+        static int funcOdejmij(int a, int b)
+        {
+            return a - b;
         }
 
     }
