@@ -16,7 +16,7 @@ namespace testWersjonowania
 
             Console.WriteLine("Dodaj    (1+2)=" + funcDodaj(1, 2));
             Console.WriteLine("Odejmij  (3-1)=" + funcOdejmij(3, 1));
-            Console.WriteLine("Mn123ozenie (3*2)=" + funcMnozenie(3, 2));
+            Console.WriteLine("Mnozenie (3*2)=" + funcMnozenie(3, 2));
 
             Console.WriteLine("Napisal: Irek");
             Console.ReadLine();

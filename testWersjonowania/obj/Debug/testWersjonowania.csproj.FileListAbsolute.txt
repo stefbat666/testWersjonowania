@@ -5,3 +5,10 @@ C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.csproj
 C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.csproj.CoreCompileInputs.cache
 C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.exe
 C:\source\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.pdb
+c:\source\TEST\testWersjonowania\testWersjonowania\bin\Debug\testWersjonowania.exe.config
+c:\source\TEST\testWersjonowania\testWersjonowania\bin\Debug\testWersjonowania.exe
+c:\source\TEST\testWersjonowania\testWersjonowania\bin\Debug\testWersjonowania.pdb
+c:\source\TEST\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.csprojAssemblyReference.cache
+c:\source\TEST\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.csproj.CoreCompileInputs.cache
+c:\source\TEST\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.exe
+c:\source\TEST\testWersjonowania\testWersjonowania\obj\Debug\testWersjonowania.pdb
