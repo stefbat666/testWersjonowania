@@ -14,8 +14,9 @@ namespace testWersjonowania
             Console.WriteLine("wersja wczytana do GITHUBa");
             Console.WriteLine("Kolejnosc 1");
 
-            Console.WriteLine("Dodaj   (1+2)=" + funcDodaj(1, 2));
-            Console.WriteLine("Odejmij (3-1)=" + funcOdejmij(3, 1));
+            Console.WriteLine("Dodaj    (1+2)=" + funcDodaj(1, 2));
+            Console.WriteLine("Odejmij  (3-1)=" + funcOdejmij(3, 1));
+            Console.WriteLine("Mn123ozenie (3*2)=" + funcMnozenie(3, 2));
 
             Console.WriteLine("Napisal: Irek");
             Console.ReadLine();
@@ -31,6 +32,11 @@ namespace testWersjonowania
         static int funcOdejmij(int a, int b)
         {
             return a - b;
+        }
+
+        static int funcMnozenie(int a, int b)
+        {
+            return a * b;
         }
 
     }
